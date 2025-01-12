@@ -32,4 +32,6 @@ python .\task_5.py --video `your youtube link or video path goes here...`
 
 ## Task 6
 
-
+- Fine-tuned YOLO model for fire and smoke detection dataset
+- Fire and smoke dataset link - https://universe.roboflow.com/fire-rqbio/fire-and-smoke-yikzn
+- Instructions to run are in the notebook
