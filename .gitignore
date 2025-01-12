@@ -1,0 +1,7 @@
+
+datasets/*
+fine-tuned-model/
+fire and smoke.v3i.yolov11/
+fire_smoke_detection/
+fire-and-smoke-3/
+yolo11n.pt
